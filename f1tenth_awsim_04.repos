@@ -1,4 +1,12 @@
 repositories:
+  universe/autoware.universe/control/cem_controller:
+    type: git
+    url: git@github.com:LukaszJaniak/cem_controller.git
+    version: main
+  universe/autoware.universe/control/trajectory_follower_node:
+    type: git
+    url: git@github.com:LukaszJaniak/trajectory_follower_node.git
+    version: main
   universe/external/cartographer_utils:
     type: git
     url: https://github.com/amadeuszsz/cartographer_utils.git
