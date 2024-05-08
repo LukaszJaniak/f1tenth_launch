@@ -25,8 +25,8 @@ repositories:
     version: master
   launcher/f1tenth_launch:
     type: git
-    url: https://github.com/amadeuszsz/f1tenth_launch.git
-    version: master
+    url: git@github.com:LukaszJaniak/f1tenth_launch.git
+    version: assignment
   sensor_kit/external/f1tenth_sensor_kit_launch:
     type: git
     url: https://github.com/amadeuszsz/f1tenth_sensor_kit_launch.git
