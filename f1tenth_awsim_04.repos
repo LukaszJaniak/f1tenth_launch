@@ -3,6 +3,10 @@ repositories:
     type: git
     url: git@github.com:LukaszJaniak/cem_controller.git
     version: main
+  universe/autoware.universe/control/pid_longitudal_controller:
+    type: git
+    url: git@github.com:LukaszJaniak/pid_longitudinal_controller.git
+    version: main
   universe/autoware.universe/control/trajectory_follower_node:
     type: git
     url: git@github.com:LukaszJaniak/trajectory_follower_node.git
